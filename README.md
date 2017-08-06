@@ -7,7 +7,7 @@
 - [Data Structures](1%20-%20Data%20Structures.md)
     - [Binary Search Tree](1.1%20-%20Binary%20Search%20Tree.md)
     - [Binary Heap](1.2%20-%20Binary%20Heap.md)
-    - [Trie Implementation](1.3%20-%20Trie.java)
+    - [Trie](1.3%20-%20Trie.md)
 - [Algorithms](2%20-%20Algorithms.md)
     - [Search Algorithms](2.1%20-%20Search%20Algorithms.md)
     - [Sorting Algorithms](2.2%20-%20Sorting%20Algorithms.md)

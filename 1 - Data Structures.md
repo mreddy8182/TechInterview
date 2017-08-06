@@ -161,7 +161,7 @@ Data Type |       Description       | Default  |  Size
 
 ### Java
 
-- [Java Implementation of Trie](1.3%20-%20Trie.java)
+- [Java Implementation of Trie](1.3%20-%20Trie.md)
 
 ## Graph
 
