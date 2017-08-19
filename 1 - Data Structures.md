@@ -178,7 +178,7 @@ Data Type |       Description       | Default  |  Size
     - Connectivity between two vertices can be verified quickly.
     - In an undirected graph, the adjacency matrix will be symmetrical.
 - An adjacency matrix is usually better for storing dense graphs while an adjacency list is better for storing sparse graphs.
-- Traversal in an adjacency list implementation is more efficient than an adjacency matrix implementation since it's not necessary to iterate through all the nodes to find a node's neighbors.
+- Traversal in an adjacency list implementation is more efficient than an adjacency matrix implementation since it is not necessary to iterate through all the nodes to find a node's neighbors.
 
 ### Important Points
 
