@@ -9,7 +9,7 @@
     - Radix Sort
 
 - Graph Algorithms
-    - Dijkstra's Algorithm / A* Search / Bellman-Ford Algorithm / Floyd-Warshall Algorithm
+    - Bellman-Ford Algorithm / Floyd-Warshall Algorithm
     - Topological Sorting
     - Minimum Spanning Tree / Prim's Algorithm / Kruskal's Algorithm
 
@@ -17,3 +17,7 @@
     - TCP/IP, HTTP, Basics of Search, Firewalls
     - Protocols
     - IP Addresses
+
+- Concurrency in Java
+
+- Elaborate Recursion & Dynamic Programming
